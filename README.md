@@ -1,2 +1,4 @@
 # Spacycrafts
-a game made using p5.js for a game jam
+
+A one week basic top-down shooter built for WPI’s FIRST Game Jam with the theme "Coopertition".
+Winner of the “Creative Use of Prompt” award.
